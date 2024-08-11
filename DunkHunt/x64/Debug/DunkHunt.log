@@ -1,0 +1,92 @@
+﻿  DuckView.cpp
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Header\Gameplay\GameplayModel.h(12,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,96): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,96): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,96): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,96): warning C4244:             T=int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,96): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,65): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,65): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,65): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,65): warning C4244:             T=int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(16,65): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(105,20): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(105,20): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(105,20): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(105,20): warning C4244:             T=int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(105,20): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(104,20): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(104,20): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(104,20): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(104,20): warning C4244:             T=int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(104,20): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(102,31): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(102,31): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(102,31): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(102,31): warning C4244:             T=int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(102,31): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(117,19): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(117,19): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(117,19): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(117,19): warning C4244:             T=int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(117,19): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(116,19): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(116,19): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(116,19): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(116,19): warning C4244:             T=int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(116,19): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(114,19): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(114,19): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(114,19): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(114,19): warning C4244:             T=int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Duck\DuckView.cpp(114,19): warning C4244:         ]
+  GameplayView.cpp
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Header\Gameplay\GameplayModel.h(12,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,116): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,116): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,116): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,116): warning C4244:             T=unsigned int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,116): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,91): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,91): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,91): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,91): warning C4244:             T=unsigned int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Gameplay\GameplayView.cpp(13,91): warning C4244:         ]
+  SoundService.cpp
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\Sound\SoundService.cpp(68,29): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  GameplayUIController.cpp
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Header\Gameplay\GameplayModel.h(12,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,109): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,109): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,109): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,109): warning C4244:             T=unsigned int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,109): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,84): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,84): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,84): warning C4244:             T=unsigned int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(26,84): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(39,100): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(42,97): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(46,101): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(48,107): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(50,111): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\Gameplay\GameplayUIController.cpp(52,120): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  MainMenuUIController.cpp
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Header\Gameplay\GameplayModel.h(12,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,126): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,126): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,126): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,126): warning C4244:             T=unsigned int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,126): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,101): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,101): warning C4244:         with
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,101): warning C4244:         [
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,101): warning C4244:             T=unsigned int
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(90,101): warning C4244:         ]
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Source\UI\MainMenuUI\MainMenuUIController.cpp(107,113): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  SplashScreenUIController.cpp
+C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\Header\Gameplay\GameplayModel.h(12,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  TextView.cpp
+  Generating Code...
+  DunkHunt.vcxproj -> C:\Users\prith\Desktop\OUTSCAL\udck\DunkHunt-main\DunkHunt-main\DunkHunt\x64\Debug\DunkHunt.exe
